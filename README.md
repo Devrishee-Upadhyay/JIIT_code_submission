@@ -1,5 +1,5 @@
 # JIIT_code_submission
-1.The file consists of a zipped folder javaApplication1.
+1.The file consists of a zipped folder PlacementTestSubmission.
 2.The folder consists java file named as JavaApplication1.java
 3.To compile the file: -javac JavaApplication1.java on cmd
 4.To run: java javaApplication1
